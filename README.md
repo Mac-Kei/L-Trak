@@ -1,6 +1,4 @@
-# L-Trak
 Laboratory Tracking and Record Keeping
-
 
 L-TRAK is a desktop application designed for efficient tracking and management of laboratory equipment and user activities, providing a user-friendly interface for administrators and users.
 
